@@ -1,6 +1,6 @@
 package koschei.models;
 
-public class Egg6 { // Island2
+public class Egg6 {
 
     private Needle7 needle;
 
